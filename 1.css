@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(185, 221, 233);
+  width: 40%;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  font-size: 20px;
+}
+.contact {
+  text-align: right;
+  margin-top: 20px;
+}
+.container {
+  background-color: rgb(160, 196, 229);
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  margin: 20px;
+  border-radius: 50px;
+}
+
+.profile img {
+  width: 100%;
+  border-radius: 50%;
+  width: 200px;
+  margin-left: 60px;
+}
+
+.info {
+  margin-left: 20px;
+  margin-right: 75px;
+  margin-top: 30px;
+}
+
+.info h2 {
+  margin-bottom: 10px;
+  font-size: 35px;
+}
+
+.info ul {
+  padding: 20;
+}
+
+.me {
+  background-color: rgb(160, 196, 229);
+  border: 40px;
+}
+
+.me h2 {
+  text-align: center;
+}
